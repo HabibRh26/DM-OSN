@@ -1,23 +1,24 @@
 ---
 # Display name
 title: Badhan Chandra Das
-#authors: badhan
+#authors:
 user_groups: ["cse23"]
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Associate Professor, Computer Science & Engineering
+role: Graduated (MS), Computer Science & Engineering. Email- badhan0951@gmail.com
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Jahangirnagar University
+- name: Jahangirnagar University, Savar, Dhaka-1342.
 
-# Interests to show in About widget
+# Interests
 interests:
 - Data Mining 
 - Social Network Analysis
 - Natural Language Processing
-- Software Engineering
+- Machine Learning
+- Data Science
 
 ---
