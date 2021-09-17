@@ -7,7 +7,7 @@ user_groups: ["cse25"]
 superuser: false
 
 # Role/position/tagline
-role: Associate Professor, Computer Science & Engineering
+role: Graduate Student, Computer Science & Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
