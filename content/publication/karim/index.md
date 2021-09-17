@@ -30,7 +30,7 @@ publication: In *IJCISIM*
 publication_short: In *IJCISIM*
 
 # Summary. An optional shortened abstract.
-summary: International Journal of Computer Information Systems and Industrial Management Applications **(Journal Rank- Q3/Q4)**
+summary: ACM JOurnal **(Journal Rank- Q3/Q4)**
 
 tags: []
 
