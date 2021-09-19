@@ -1,27 +1,24 @@
 ---
 # Display name
-title: Tabia Tanzin
-#authors: principal
+title: Tabia Tanzin Prama
+#authors:
 user_groups: ["cse27"]
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Undergrad Student, Computer Science & Engineering
+role: Undergraduate Student, Computer Science & Engineering. Email- prama.stu2017@juniv.edu
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Jahangirnagar University
-  url: 
+- name: Jahangirnagar University, Savar, Dhaka-1342.
 
-# Short bio (displayed in user profile at end of posts)
-#bio: My research interests include Data Mining, Social Network Analysis, Natural Language Processing, Software Engineering.
+# Interests
+interests:
+- Machine Learning
+- Deep Learning 
+- Social Network Analysis
+- Natural Language Processing
 
-# Interests to show in About widget
-#interests:
-#- Data Mining 
-#- Social Network Analysis
-#- Natural Language Processing
-#- Software Engineering
 
 ---
