@@ -1,27 +1,23 @@
 ---
 # Display name
 title: Tasneem Farhana Suha
-#authors: principal
+#authors:
 user_groups: ["cse25"]
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Graduate Student, Computer Science & Engineering
+role: Graduate Student, Computer Science & Engineering. Email- suha.stu2015@juniv.edu
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Jahangirnagar University
-  url: 
+- name: Jahangirnagar University, Savar, Dhaka-1342.
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Data Mining, Social Network Analysis, Natural Language Processing, Software Engineering.
-
-# Interests to show in About widget
+# Interests
 interests:
-- Data Mining 
-- Social Network Analysis
 - Natural Language Processing
-- Software Engineering
+- Machine Learning
+- Cyber Security
+- Deep Learning
 
 ---
