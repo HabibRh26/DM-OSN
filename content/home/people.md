@@ -11,6 +11,7 @@ content:
   user_groups:
     - Graduate
     - Undergraduate
+    - Alumni
     
   
 
