@@ -2,7 +2,7 @@
 # Display name
 title: Tanzim Mahfuz
 #authors:
-user_groups: ["cse25"]
+user_groups: ["Graduate"]
 # Is this the primary user of the site?
 superuser: false
 

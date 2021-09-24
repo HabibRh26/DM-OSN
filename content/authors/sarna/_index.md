@@ -2,7 +2,7 @@
 # Display name
 title: Sarmista Sarna Gomasta
 #authors:
-user_groups: ["cse26"]
+user_groups: ["Undergraduate"]
 # Is this the primary user of the site?
 superuser: false
 

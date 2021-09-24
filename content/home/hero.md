@@ -4,7 +4,7 @@ headless: true
 weight: 10
 active: true
 title: JU Data Mining Research Group
-hero_media: hero-academic.jpg
+hero_media: 
 
 design:
   

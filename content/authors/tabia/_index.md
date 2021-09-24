@@ -2,7 +2,7 @@
 # Display name
 title: Tabia Tanzin Prama
 #authors:
-user_groups: ["cse27"]
+user_groups: ["Undergraduate"]
 # Is this the primary user of the site?
 superuser: false
 

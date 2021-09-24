@@ -2,7 +2,7 @@
 # Display name
 title: Aditi Dhali
 #authors: principal
-user_groups: ["cse25"]
+user_groups: ["Undergraduate"]
 # Is this the primary user of the site?
 superuser: false
 
