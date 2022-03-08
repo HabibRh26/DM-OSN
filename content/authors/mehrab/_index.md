@@ -7,7 +7,7 @@ user_groups: ["Graduate"]
 superuser: false
 
 # Role/position/tagline
-role: Graduate (MS), Computer Science & Engineering. Email- mdshoaib.stu2017@juniv.edu
+role: Graduate (MS), Computer Science & Engineering. Email- shoaibmehrab011@gmail.com. Web- https://mdshoaibahmed.com
 
 # Organizations/Affiliations
 organizations:
@@ -15,12 +15,11 @@ organizations:
 
 # Interests
 interests:
-- Deep Learning 
-- Social Network Analysis
-- Web Development
-- Natural Language Processing
-- Computer Vision
-- Cloud Computing
+- Artificial Intelligence
 - Machine Learning
+- Deep Learning
+- Computer Vision & Pattern Recognition
+- Natural Language Processing
+- Data Mining in Social Networks
 
 ---
