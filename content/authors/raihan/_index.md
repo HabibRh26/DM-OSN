@@ -15,9 +15,7 @@ organizations:
 
 # Interests
 interests:
-- Data Mining 
 - Social Network Analysis
 - Natural Language Processing
-- Software Engineering
 
 ---
