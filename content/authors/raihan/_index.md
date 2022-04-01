@@ -15,6 +15,7 @@ organizations:
 
 # Interests
 interests:
+- Machine Learning
 - Social Network Analysis
 - Natural Language Processing
 
