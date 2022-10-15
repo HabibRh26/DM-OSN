@@ -58,9 +58,9 @@ social:
 #- icon: github
 # icon_pack: fab
 # link: https://github.com/musfiqueanwar
-- icon: linkedin
-icon_pack: fab
-link: https://www.linkedin.com/in/shawkat/
+#- icon: linkedin
+#icon_pack: fab
+#link: https://www.linkedin.com/in/shawkat/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
