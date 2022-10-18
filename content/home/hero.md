@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 active: true
-title: JU Data Mining Research Group
+title: JU Data Mining Research Lab
 hero_media: 
 
 design:
@@ -27,4 +27,4 @@ advanced:
 ---
 
 ## 👋 Welcome to JU Research World
-### **JU Data Mining Research Group** is founded by **Dr. Md Musfique Anwar**, Associate Professor, CSE dept, Jahangirnagar University. The group focuses on various research domain such as data mining, Online Social Network analysis, Software Engineering etc. Currently there are almost 10 researchers on this group who are actively contributing to the research world on various domain. 
+### **JU Data Mining Research Lab** is founded by **Dr. Md Musfique Anwar**, Associate Professor, CSE dept, Jahangirnagar University. The lab focuses on various research domain such as data mining, Online Social Network analysis, Software Engineering etc. Currently there are almost 10 researchers on this lab who are actively contributing to the research world on various domain. 
