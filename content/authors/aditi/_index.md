@@ -2,12 +2,12 @@
 # Display name
 title: Aditi Dhali
 #authors: principal
-user_groups: ["Undergraduate"]
+user_groups: ["Graduate"]
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Undergrad Student, Computer Science & Engineering.
+role: Lecturer, Daffodil International University. Graduate Student, Computer Science & Engineering, Email- aditi.stu2015@juniv.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,9 +19,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Data Mining 
+- Data Mining
+- Blockchain
 - Social Network Analysis
 - Natural Language Processing
-- Software Engineering
+- Machine Learning
 
 ---
