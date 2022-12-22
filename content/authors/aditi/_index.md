@@ -7,11 +7,11 @@ user_groups: ["Graduate"]
 superuser: false
 
 # Role/position/tagline
-role: Lecturer, Daffodil International University. Graduate Student, Computer Science & Engineering, Email- aditi.stu2015@juniv.edu
+role: Lecturer, Daffodil International University. Graduate Student, Computer Science & Engineering, Jahangirnagar University. Email- aditi.stu2015@juniv.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Jahangirnagar University
+- name: Jahangirnagar University, Savar, Dhaka-1342.
   url: 
 
 # Short bio (displayed in user profile at end of posts)
